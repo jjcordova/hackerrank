@@ -1,7 +1,7 @@
 # Excersice HackerRank
 # Artificial IntelligenceStatistics and Machine LearningDay 6: Multiple Linear Regression: Predicting House Prices
 # https://www.hackerrank.com/challenges/predicting-house-prices/problem
-# Predicting House Prices
+# Day 6: Multiple Linear Regression Predicti House Prices
 
 #!/bin/python3
 
